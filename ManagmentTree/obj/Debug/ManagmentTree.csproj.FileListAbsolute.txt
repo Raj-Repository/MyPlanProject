@@ -1,0 +1,7 @@
+C:\Users\OEM\source\repos\MyPlanProject\ManagmentTree\bin\Debug\ManagmentTree.exe.config
+C:\Users\OEM\source\repos\MyPlanProject\ManagmentTree\bin\Debug\ManagmentTree.exe
+C:\Users\OEM\source\repos\MyPlanProject\ManagmentTree\bin\Debug\ManagmentTree.pdb
+C:\Users\OEM\source\repos\MyPlanProject\ManagmentTree\obj\Debug\ManagmentTree.csprojAssemblyReference.cache
+C:\Users\OEM\source\repos\MyPlanProject\ManagmentTree\obj\Debug\ManagmentTree.csproj.CoreCompileInputs.cache
+C:\Users\OEM\source\repos\MyPlanProject\ManagmentTree\obj\Debug\ManagmentTree.exe
+C:\Users\OEM\source\repos\MyPlanProject\ManagmentTree\obj\Debug\ManagmentTree.pdb
